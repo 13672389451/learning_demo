@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.atguigu.boot.boot_05_web_01.Boot05Web01ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.08 s - in com.atguigu.boot.boot_05_web_01.Boot05Web01ApplicationTests

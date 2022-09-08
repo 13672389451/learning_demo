@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.kuang:Mybatis_demo01:1.0-SNAPSHOT">
+    <CLASSES />
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/Mybatis_demo01/Mybatis_demo01-1.0-SNAPSHOT-javadoc.jar!/" />
+      <root url="jar://F:/maven/repository/com/kuang/Mybatis_demo01/1.0-SNAPSHOT/Mybatis_demo01-1.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/Mybatis_demo01/Mybatis_demo01-1.0-SNAPSHOT-sources.jar!/" />
+      <root url="jar://F:/maven/repository/com/kuang/Mybatis_demo01/1.0-SNAPSHOT/Mybatis_demo01-1.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
