@@ -1,0 +1,415 @@
+html,body,header,footer,div{margin: 0px;padding: 0px}
+body{
+    font-family: 微软雅黑;
+    background-color:#5d7c99;
+    color: yellow;
+}
+h2{font-weight:500;font-size:18px;}
+ul{list-style-type: none}
+a{text-decoration: none;}
+a:link{color:blue}
+a:visited{color:red}
+a:hover{color:green;}
+a:active{color:yellow;}
+.wapper{
+    width:1000px;
+    margin: 0px auto;
+    margin-top: 40px;
+}
+
+.header{
+    position:absolute;
+    width: 1000px;
+    border: 1px solid #00587c;
+    height: 145px;
+    /*background-image: url("/com/static/img/0.jpg");*/
+    /*background-size: 100% 100%;*/
+}
+
+#pho{
+    position: absolute;
+    height: 145px;
+    width:1000px;
+}
+
+nav{
+    position: absolute;
+    font-size: 18px;
+    height: 40px;
+    width: 1000px;
+    margin: 150px auto;
+    background-color:#CCFFFF;
+    color: red;
+}
+nav ul li{
+    float: left;
+    margin-left:130px;
+    margin-top: -10px;
+}
+
+
+.first_block{
+    position: absolute;
+    margin: 195px auto;
+    width:1000px;
+    height:180px;
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    /*background-color: burlywood;*/
+}
+
+.first_block #pho_1{
+    position: relative;
+    float: left;
+    margin-top: 15px;
+    margin-left: 15px;
+    height: 135px;
+    width:150px;
+}
+
+.first_front p {
+    position: absolute;
+    width:700px;
+    margin-top: 35px;
+    margin-left: 230px;
+    float: right;
+
+}
+
+.second_block{
+    position: absolute;
+    margin: 395px auto;
+    width:1000px;
+    height:180px;
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    /*background-color: burlywood;*/
+}
+
+
+.second_block #pho_2{
+    position: relative;
+    float: left;
+    margin-top: 15px;
+    margin-left: 15px;
+    height: 135px;
+    width:150px;
+}
+
+.second_front p {
+    position: absolute;
+    width:700px;
+    margin-top: 35px;
+    margin-left: 230px;
+    float: right;
+
+}
+
+.third_block{
+    position: absolute;
+    margin: 605px auto;
+    width:1000px;
+    height:180px;
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    /*background-color: burlywood;*/
+}
+
+
+.third_block #pho_3{
+    position: relative;
+    float: left;
+    margin-top: 15px;
+    margin-left: 15px;
+    height: 135px;
+    width:150px;
+}
+
+.third_front p {
+    position: absolute;
+    width:700px;
+    margin-top: 35px;
+    margin-left: 230px;
+    float: right;
+
+}
+
+/*
+神话传说 开始：
+*/
+
+
+faire_first{
+    position: absolute;
+    margin: 195px auto;
+    width:1000px;
+    height:500px;
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    test-align: center;
+    /*background-color: burlywood;*/
+}
+
+p{
+    test-align: center;
+}
+
+.first_img #pho_4{
+    position: relative;
+    float: left;
+    margin-top: 253px;
+    margin-left: 15px;
+    height: 260px;
+    width:250px;
+    border-radius: 25px;
+
+}
+
+.first_img #pho_5{
+    position: relative;
+    float: right;
+    margin-top: 560px;
+    margin-right: 15px;
+    height: 280px;
+    width:280px;
+
+}
+.first p{
+    position: absolute;
+    /*margin: 195px auto;*/
+    float: right;
+    margin-top: 195px;
+    width:1000px;
+    height:650px;
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    test-align: center;
+    /*background-color: burlywood;*/
+}
+
+
+/*
+神话传说 结束：
+*/
+
+/*
+历史沿革 开始
+*/
+
+
+.historical_firstBlock{
+    position: absolute;
+    margin: 195px auto;
+    width:1000px;
+    height:500px;
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    /*background-color: burlywood;*/
+}
+
+.historical_firstBlock #pho_1{
+    position: relative;
+    float: left;
+    margin-top: 155px;
+    margin-left: 20px;
+    height: 155px;
+    width:185px;
+    border-radius: 5px;
+}
+
+.historical_firstFront p {
+    position: absolute;
+    width:700px;
+    margin-top: 35px;
+    margin-left: 230px;
+    float: right;
+
+}
+
+.historical_secondBlock{
+    position: absolute;
+    margin: 725px auto;
+    width:1000px;
+    height:595px;
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    /*background-color: burlywood;*/
+}
+
+
+.historical_secondBlock #pho_2{
+    position: relative;
+    float: right;
+    margin-top: 155px;
+    margin-right: 28px;
+    height: 190px;
+    width:230px;
+    border:5px;
+    border-radius: 5px;
+}
+
+.historical_secondFront p {
+    position: absolute;
+    width:1000px;
+    margin-top: 35px;
+    margin-left: 20px;
+}
+
+.historical_thirdBlock{
+    position: absolute;
+    margin: 1360px auto;
+    width:1000px;
+    height:765px;
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    /*background-color: burlywood;*/
+}
+
+
+.historical_thirdBlock #pho_3{
+    position: relative;
+    float: right;
+    margin-top: 115px;
+    margin-right: 20px;
+    height: 210px;
+    width:220px;
+    border-radius: 5px;
+}
+
+/*.historical_thirdBlock #pho_4{*/
+/*    position: relative;*/
+/*    float: right;*/
+/*    margin-top: 350px;*/
+/*    margin-right: 20px;*/
+/*    height: 200px;*/
+/*    width:190px;*/
+/*    border-radius: 5px;*/
+/*}*/
+
+.historical_thirdFront p {
+    position: absolute;
+    width:1000px;
+    margin-top: 35px;
+    margin-left: 20px;
+
+}
+
+
+
+/*
+历史沿革 结束
+*/
+
+
+/*
+文学记载 开始
+*/
+
+.literature_firstBlock{
+    position: absolute;
+    margin: 195px auto;
+    width:1000px;
+    height:865px;
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+
+
+
+}
+
+.literature_firstLeft{
+    position: absolute;
+    width:225px;
+    height:525px;
+    margin-left: 15px;
+    margin-top: 20px;
+    padding-left: 15px;
+    border: 2px solid #73AD21;
+
+}
+.literature_firstLeft #pho_1{
+    position: relative;
+    float: left;
+    margin-top: 22px;
+    margin-left: 12px;
+    height: 165px;
+    width:195px;
+    border-radius: 5px;
+}
+
+.literature_firstFront p {
+    position: relative;
+    width:200px;
+    margin-top: 25px;
+    margin-left: 15px;
+    float: left;
+
+}
+
+.literature_firstRight{
+    position: absolute;
+    width:625px;
+    height:525px;
+    margin-left: 325px;
+    margin-top: 20px;
+    padding-left: 15px;
+    border: 2px solid #73AD21;
+
+ }
+
+.literature_rightIimg #pho_2{
+    position: relative;
+    float: left;
+    margin-top: 15px;
+    margin-left: 15px;
+    height: 265px;
+    width:585px;
+    border-radius: 5px;
+
+}
+
+.literature_rightFront p {
+    position: relative;
+    width:600px;
+    margin-top: 35px;
+    margin-left: 15px;
+    float: left;
+
+}
+
+
+
+.literature_firstBotton{
+    position: absolute;
+    width:925px;
+    height:215px;
+    margin-left: 22px;
+    margin-top: 615px;
+    padding-left: 15px;
+    border: 2px solid #73AD21;
+}
+
+
+.literature_bottomFront p{
+    position: relative;
+    width:600px;
+    margin-top: 35px;
+    margin-left: 15px;
+    float: right;
+}
+
+.literature_bottomImg  #pho_3{
+    position: relative;
+    float: left;
+    margin-top: 20px;
+    margin-left: 15px;
+    height: 180px;
+    width:265px;
+    border-radius: 5px;
+}
+
+
+/*
+文学记载 结束
+*/
+
